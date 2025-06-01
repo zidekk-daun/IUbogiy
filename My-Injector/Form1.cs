@@ -236,6 +236,21 @@ namespace My_Injector
         private void Form1_Load(object sender, EventArgs e)
         {
             Startup();
+            ToolTip toolTip1 = new ToolTip();
+
+            // Set up the delays for the ToolTip.
+            toolTip1.AutoPopDelay = 5000;
+            toolTip1.InitialDelay = 100;
+            toolTip1.ReshowDelay = 100;
+            // Force the ToolTip text to be displayed whether or not the form is active.
+            toolTip1.ShowAlways = true;
+
+            // Set up the ToolTip text for the Button and Checkbox.
+            toolTip1.SetToolTip(this.guna2Button1, "PRESS TO EXECUTE");
+            toolTip1.SetToolTip(this.guna2Button2, "PRESS TO CLEAR");
+            toolTip1.SetToolTip(this.guna2Button8, "PRESS TO LOAD");
+            toolTip1.SetToolTip(this.guna2Button3, "PRESS TO SAVE");
+            toolTip1.SetToolTip(this.guna2Button4, "PRESS TO ATTACH");
         }
 
         private void chromiumWebBrowser1_LoadingStateChanged(object sender, LoadingStateChangedEventArgs e)
@@ -251,6 +266,8 @@ namespace My_Injector
         private void guna2Button1_Click_1(object sender, EventArgs e)
         {
             Execute();
+            var myToolTip = new ToolTip();
+            myToolTip.SetToolTip(guna2Button1, "EXECUTE");
         }
 
         private void guna2Button4_Click_1(object sender, EventArgs e)
