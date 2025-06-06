@@ -12,12 +12,14 @@ If u need to help, or questions - my Discord: [kitikatich](https://discordapp.co
 -- Without him - dosn't works.
 
 
+(P.S you can join my Telegram [Channel](https://t.me/ubogiyinject), here injector if in release dosnt shows)
+
+
 ![изображение](https://github.com/user-attachments/assets/33431d42-58f9-4315-9901-38b9636ce084)
 ![изображение](https://github.com/user-attachments/assets/207fd4d0-f519-4fbc-97f6-ba0773f55799)
 
 
 
 
-(P.S you can join my Telegram [Channel](https://t.me/ubogiyinject))
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
