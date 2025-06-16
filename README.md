@@ -12,7 +12,7 @@ If u need to help, or questions - my Discord: [kitikatich](https://discordapp.co
 -- Without him - dosn't works.
 
 
-<h1 align="center">TO DOWNOAD It join my Telegram [Channel](https://t.me/ubogiyinject), here injector if in release dosnt shows.</></h1>
+<h1 align="center">TO DOWNOAD It join my Telegram Channel (https://t.me/ubogiyinject), here injector if in release dosnt shows.</></h1>
 
 
 ![изображение](https://github.com/user-attachments/assets/33431d42-58f9-4315-9901-38b9636ce084)
