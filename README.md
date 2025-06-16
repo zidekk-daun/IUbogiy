@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://discordapp.com/users/958802222811070545/" target="_blank">Matvey</a> 
+<h1 align="center">Hi there, I'm <a href="https://discordapp.com/users/958802222811070545/" target="_blank">Matvey</a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Zadrot, and just guy from Ukraine 🇺🇦</h3>
 
@@ -12,7 +12,7 @@ If u need to help, or questions - my Discord: [kitikatich](https://discordapp.co
 -- Without him - dosn't works.
 
 
-(P.S you can join my Telegram [Channel](https://t.me/ubogiyinject), here injector if in release dosnt shows)
+<h1 align="center">TO DOWNOAD It join my Telegram [Channel](https://t.me/ubogiyinject), here injector if in release dosnt shows.</></h1>
 
 
 ![изображение](https://github.com/user-attachments/assets/33431d42-58f9-4315-9901-38b9636ce084)
